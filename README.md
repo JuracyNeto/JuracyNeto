@@ -36,11 +36,11 @@ saúde na tomada de decisões e no diagnóstico.
 
 ## Estatísticas
 
-![stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=JuracyNeto&show_icons=true&theme=radical)
 
 ## Linguagens
 
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JuracyNeto&layout=compact)
 
 ## Contato
 
