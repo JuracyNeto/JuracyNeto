@@ -10,16 +10,16 @@ No momento estou me aperfeiçoando em Django e Quarkus.
 
 ## Projetos Destacados
 
-##01- MobileFrotas - Aplicação para controle e gestão de soltura de frotas, substituições e apoios para uma empresa que presta os seguintes serviços para a cidade de Goiânia-GO: 
+### 01- MobileFrotas - Aplicação para controle e gestão de soltura de frotas, substituições e apoios para uma empresa que presta os seguintes serviços para a cidade de Goiânia-GO: 
 coleta de lixo domiciliar
 remoção de entulho
 cata-treco
 coleta seletiva
 varrição mecanizada
 
-##02- PesagemSeletiva - Aplicação para controle e visualização de dados de pesagem dos serviços de coelta Seletiva e Cata-Treco. 
+### 02- PesagemSeletiva - Aplicação para controle e visualização de dados de pesagem dos serviços de coelta Seletiva e Cata-Treco. 
 
-##03- FinanSaas - Projeto pessoal de um micro saas para gestão financeira, com dashs, historico, segmentação de gastos por tipo, registro de gastos fixos e etc. Apresenta integração com IA para apresentar os dados, gerar relatórios, cadastrar gastos e etc. 
+### 03- FinanSaas - Projeto pessoal de um micro saas para gestão financeira, com dashs, historico, segmentação de gastos por tipo, registro de gastos fixos e etc. Apresenta integração com IA para apresentar os dados, gerar relatórios, cadastrar gastos e etc. 
    
 
 ## Estatísticas
