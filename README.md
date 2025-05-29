@@ -1,12 +1,9 @@
 # Bem-vindo ao meu GitHub!                                                                                                  
-
+Sou estudante apaixonado por tecnologia.
+No momento estou me aperfeiçoando em Django e Quarkus.
 Stack: Django e Quarkus para backend, Next.js e React-Native para frontend. A maioria dos meus projetos estão privados, mas logo menos os tornarei publicos...
 
 
-## Sobre mim
-
-Sou estudante apaixonado por tecnologia.
-No momento estou me aperfeiçoando em Django e Quarkus.
 
 ## Projetos Destacados
 
