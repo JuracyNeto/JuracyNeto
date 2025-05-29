@@ -14,8 +14,11 @@ Stack: Django, Quarkus ou SpringBoot para backend, Next.js e React-Native para f
 #### coleta seletiva
 #### varrição mecanizada
 
-A aplicação conta com ,  
-### 02- PesagemSeletiva - Aplicação para controle e visualização de dados de pesagem dos serviços de coelta Seletiva e Cata-Treco. 
+A aplicação possui arquitetura MVC, com backend em Django e frontend em React-Native com EXPO. Queries otimizadas utilizando ferramentas do próprio framework, estrutura escalável e de fácil manutenção. Tem integração com um microsserviço que criei para enviar mensagens de aviso de Substituições e Solturas no WhatsApp.
+           
+### 02- PesagemSeletiva - Aplicação para controle e visualização de dados de pesagem dos serviços de coelta Seletiva e Cata-Treco, além de disponibilizar a visualização do status, histórico e resumo das solturas de veículos e máquinas. 
+
+A aplicação possui arquitetura MVC, com backend em Django e frontend em Next.js. Queries otimizadas, arquitetura escalável e de fácil manutenção.
 
 ### 03- FinanSaas - Projeto pessoal de um micro saas para gestão financeira, com dashs, historico, segmentação de gastos por tipo, registro de gastos fixos e etc. Apresenta integração com IA para apresentar os dados, gerar relatórios, cadastrar gastos e etc. 
    
