@@ -1,38 +1,26 @@
- ![gif](https://github.com/paulojssr/prototype-backend/assets/91094257/44310c73-f959-4d5a-a407-184c8c9b5fc8)
+# Bem-vindo ao meu GitHub!                                                                                                  
 
-
-# Bem-vindo ao meu perfil do GitHub!                                                                                                  
-
-Estou sempre em busca de novos desafios. Aqui você encontrará uma visão geral dos meus projetos, habilidades e contribuições para a comunidade.
+Stack: Django e Quarkus para backend, Next.js e React-Native para frontend. A maioria dos meus projetos estão privados, mas logo menos os tornarei publicos...
 
 
 ## Sobre mim
 
 Sou estudante apaixonado por tecnologia.
-No momento estou me aperfeiçoando em Python, Java e CSS.
-Tenho conhecimento das linguagens em C, C++ e MathLab
+No momento estou me aperfeiçoando em Django e Quarkus.
 
 ## Projetos Destacados
 
-### Projeto 1: [Prototype](https://github.com/paulojssr/prototype-backend)
+###01- MobileFrotas - Aplicação para controle e gestão de soltura de frotas, substituições e apoios para uma empresa que presta os seguintes serviços para a cidade de Goiânia-GO: 
+coleta de lixo domiciliar
+remoção de entulho
+cata-treco
+coleta seletiva
+varrição mecanizada
 
+###02- PesagemSeletiva - Aplicação para controle e visualização de dados de pesagem dos serviços de coelta Seletiva e Cata-Treco. 
 
-ProtoType é uma aplicação full stack web para auxiliar os profissionais da área de Eng. de Requisitos.
-
-A aplicação consiste em gerar prótotipos, onde os dados descritos pelo usuário são coletados e processados pelo chatGPT por meio de uma API.
-
-### Projeto 2: [Avaliação da Qualidade da Imagem (AQI) para CT's e RM's utilizando uma CNN](https://github.com/paulojssr/prototype-backend/files/11743353/IC_Augmentacao.e.Visao.Computacional_2023.versao.final.pdf)
-
-
-O projeto propõe a criação de um sistema de classificação de qualidade de imagens 
-médicas usando redes neurais convolucionais (CNNs). A metodologia envolve a coleta 
-de imagens médicas em formato DICOM, simulação de ruídos e saturações de 
-compressão, pré-processamento dos dados, treinamento da CNN e avaliação do 
-modelo. Através da análise das métricas de qualidade, o sistema poderá identificar se 
-uma imagem médica está em alta, média ou baixa qualidade. O projeto visa contribuir 
-para a melhoria da interpretação clínica das imagens, auxiliando os profissionais de 
-saúde na tomada de decisões e no diagnóstico.
-
+###03- FinanSaas - Projeto pessoal de um micro saas para gestão financeira, com dashs, historico, segmentação de gastos por tipo, registro de gastos fixos e etc. Apresenta integração com IA para apresentar os dados, gerar relatórios, cadastrar gastos e etc. 
+   
 
 ## Estatísticas
 
@@ -40,14 +28,11 @@ saúde na tomada de decisões e no diagnóstico.
 
 ## Linguagens
 
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JuracyNeto&layout=compact)
+Python - Django, Flask
+Java - Quarkus, SpringBoot
+JavaScript - React, Native, Next.js
 
 ## Contato
-
-Fique à vontade para explorar meus repositórios e entre em contato caso tenha alguma pergunta ou oportunidade de colaboração. Vamos criar coisas incríveis juntos!
-
-
-
 - E-mail: juracy.neto99@gmail.com
 
 
